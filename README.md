@@ -1,5 +1,8 @@
 # Projeto: Aplicações de Machine Learning
-Este repositório contém projetos de Machine Learnig codificados nas linguagens R e Python. Meus projetos, seus respectivos códigos e datasets podem ser encontrados dentro de cada pasta.
+![](https://i.imgur.com/m4hEfal.png)  
+
+Este repositório contém projetos de Machine Learnig codificados nas linguagens R e Python. Os projetos, seus respectivos códigos e datasets podem ser encontrados dentro de cada pasta.  
+
  
  
  ## Direitos de Uso
