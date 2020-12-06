@@ -5,7 +5,7 @@
 # Download do arquivo em https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
 '''
-A ideia deste script é encontrar um modelo para prever o total de bikes que seriam alugadas a partir do grau de humidade no dia e do número de usuários casuais.
+A ideia deste script é encontrar o melhor modelo para prever o total de bikes que seriam alugadas a partir do grau de humidade no dia e do número de usuários casuais.
 '''
 
 # Última atualização do arquivo: 20-12-2013
